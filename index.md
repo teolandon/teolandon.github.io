@@ -13,7 +13,7 @@ me, as well as read through all the recent cool stuff I read about or do.
 
 E-mail: <kalfastheodoros@gmail.com>
 
-GitHub: <github.com/teolandon>
+GitHub: <https://github.com/teolandon>
 
 # Projects
 
