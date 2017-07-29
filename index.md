@@ -11,9 +11,9 @@ me, as well as read through all the recent cool stuff I read about or do.
 
 # Contact information
 
-E-mail: kalfastheodoros@gmail.com
+E-mail: <kalfastheodoros@gmail.com>
 
-GitHub: github.com/teolandon
+GitHub: <github.com/teolandon>
 
 # Projects
 
