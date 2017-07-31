@@ -12,14 +12,26 @@ read about or do.
 
 # Contact information
 
-E-mail: <kalfastheodoros@gmail.com>
+E-mail: <kalfas@teolandon.com>
 
 GitHub: <https://github.com/teolandon>
 
 # Projects
 
-Caldron, an IDE for Chemical Reaction Networks
+- [Caldron][1], an IDE for Chemical Reaction Networks, currently not available,
+    but I'll keep you guys updated.
+
+- [tmux-hackernews][2], a tmux plugin to get [Hacker News][3] headlines in the status
+    bar.
+
+- [ceramic][4], a simple text editor based on antirez's [kilo][5].
 
 # Publications
 
 Coming soon...
+
+[1]: https://github.com/grinnell-cs/caldron
+[2]: https://github.com/teolandon/tmux-hackernews
+[3]: https://news.ycombinator.com
+[4]: https://github.com/teolandon/ceramic
+[5]: https://github.com/antirez/kilo
