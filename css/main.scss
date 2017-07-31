@@ -2,17 +2,16 @@
 ---
 @charset "utf-8";
 
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: Hack;
 $base-font-size:   14px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-
 $text-color:       #DDDDDD;
 $background-color: #444444;
-$brand-color:      #FFCC00;
+$brand-color:      #639fff;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);

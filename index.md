@@ -10,6 +10,8 @@ have fun playing around and getting involved in projects, and here's where you
 can find ways to contact me, as well as read through all the recent cool stuff I
 read about or do.
 
+------------------------------------------
+
 # Contact information
 
 E-mail: <kalfas@teolandon.com>

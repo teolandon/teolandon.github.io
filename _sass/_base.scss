@@ -81,9 +81,18 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     color: #EEEEEE;
-    text-shadow: 2px 2px 2px #222222
 }
 
+
+/**
+ * Line breaks
+ */
+hr {
+    margin-bottom: 15px;
+    background-color: #2b2b2b;
+    border: 0;
+    height: 1px;
+}
 
 
 /**
@@ -98,7 +107,7 @@ a {
     }
 
     &:hover {
-        color: #D74D2B;
+        color: #ccbc6c;
         text-decoration: underline;
     }
 }
