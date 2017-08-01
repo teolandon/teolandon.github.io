@@ -12,8 +12,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#5a007b",
-    "background_color": "#5a007b",
+    "theme_color": "#33338F",
+    "background_color": "#33338F",
     "start_url": "teolandon.com",
     "display": "standalone"
 }
