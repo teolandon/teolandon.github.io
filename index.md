@@ -20,7 +20,7 @@ GitHub: <https://github.com/teolandon>
 
 # Projects
 
-- [Caldron][1], an IDE for Chemical Reaction Networks, currently not available,
+- [Cauldron][1], an IDE for Chemical Reaction Networks, currently not available,
     but I'll keep you guys updated.
 
 - [tmux-hackernews][2], a tmux plugin to get [Hacker News][3] headlines in the status
@@ -32,7 +32,7 @@ GitHub: <https://github.com/teolandon>
 
 Coming soon...
 
-[1]: https://github.com/grinnell-cs/caldron
+[1]: https://github.com/grinnell-cs/cauldron
 [2]: https://github.com/teolandon/tmux-hackernews
 [3]: https://news.ycombinator.com
 [4]: https://github.com/teolandon/ceramic
