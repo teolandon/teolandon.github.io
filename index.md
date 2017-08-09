@@ -10,13 +10,23 @@ have fun playing around and getting involved in projects, and here's where you
 can find ways to contact me, as well as read through all the recent cool stuff I
 read about or do.
 
+I am available for hire.
+
 ------------------------------------------
+
+# Links
+
+GitHub: <https://github.com/teolandon>
+
+keybase.io: <https://keybase.io/teolandon>
 
 # Contact information
 
 E-mail: <kalfas@teolandon.com>
 
-GitHub: <https://github.com/teolandon>
+PGP Key: [EF48 D63A D533 3EAE][6]
+
+Please encrypt your email if you can, it's for the better.
 
 # Projects
 
@@ -37,3 +47,4 @@ Coming soon...
 [3]: https://news.ycombinator.com
 [4]: https://github.com/teolandon/ceramic
 [5]: https://github.com/antirez/kilo
+[6]: /public-key.txt
