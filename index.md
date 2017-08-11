@@ -24,7 +24,7 @@ keybase.io: <https://keybase.io/teolandon>
 
 E-mail: <kalfas@teolandon.com>
 
-PGP Key: [EF48 D63A D533 3EAE][6]
+PGP Key: [EF48 D63A D533 4EAE][6]
 
 Please encrypt your email if you can, it's for the better.
 
