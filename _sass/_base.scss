@@ -170,6 +170,8 @@ pre {
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
+    border-left: 1px dashed #000000;
+    border-right: 1px dashed #000000;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
