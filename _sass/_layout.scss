@@ -6,13 +6,13 @@
     background-color: rgb(58, 58, 58);
     box-shadow: 5px 8px 20px 0px rgba(16, 16, 16, 0.52);
     position: relative;
-    max-width: calc(866px - #{$spacing-unit});
+    max-width: calc(855px - #{$spacing-unit} * 2);
     margin-right: auto;
     margin-left: auto;
-    margin-top: 10px;
+    margin-top: 15px;
 
     @include media-query($on-palm) {
-        max-width: 100%;
+        max-width: 85%;
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
@@ -24,14 +24,17 @@
 	margin-left: auto;
 	padding-right: 30px;
 	padding-left: 30px;
+
+  @include media-query($on-palm) {
+    text-align: center;
+  }
 }
 
 .site-title {
     font-size: 26px;
     line-height: 56px;
     letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
+    margin: auto;
 
     &,
     &:visited {
@@ -179,6 +182,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    padding-top: 20px;
 }
 
 .page-heading {
