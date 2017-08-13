@@ -6,10 +6,16 @@
     background-color: rgb(58, 58, 58);
     box-shadow: 5px 8px 20px 0px rgba(16, 16, 16, 0.52);
     position: relative;
-    max-width: calc(866px - (30px * 2));
+    max-width: calc(866px - #{$spacing-unit});
     margin-right: auto;
     margin-left: auto;
     margin-top: 10px;
+
+    @include media-query($on-palm) {
+        max-width: 100%;
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
 }
 
 .header-wrapper {
