@@ -6,11 +6,11 @@ layout: homepage
 
 I'm Theo Kalfas (aka teolandon), and I'm an aspiring software developer,
 currently studying in Grinnell College, IA, for my Bachelor's Degree in CS. I
-have fun playing around and getting involved in projects, and here's where you
-can find ways to contact me, as well as read through all the recent cool stuff I
-read about or do.
+enjoy getting involved in various projects and helping out with development.
 
-I am available for hire.
+Feel free to contact me or browse through my github. I'd be happy to talk!
+
+I am currently available for hire.
 
 ------------------------------------------
 
