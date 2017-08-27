@@ -39,6 +39,9 @@ Please encrypt your email if you can, it's for the better.
 
 - [ceramic][4], a simple text editor based on antirez's [kilo][5].
 
+- [trees][7], a simple binary search tree library for Go, with legible printing
+    of the trees. Other data structure/algorithm libraries to come.
+
 # Publications
 
 Coming soon...
@@ -49,3 +52,4 @@ Coming soon...
 [4]: https://github.com/teolandon/ceramic
 [5]: https://github.com/antirez/kilo
 [6]: /public-key.txt
+[7]: https://github.com/teolandon/trees
