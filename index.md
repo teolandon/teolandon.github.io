@@ -1,15 +1,14 @@
 ---
 layout: homepage
 title: Theo Kalfas (teolandon)
+category: homepage
 ---
-
-### teolandon
 
 I'm Theo Kalfas (aka teolandon), and I'm an aspiring software developer,
 currently studying in Grinnell College, IA, for my Bachelor's Degree in CS. I
 enjoy getting involved in various projects and helping out with development.
 
-Feel free to contact me or browse through my github. I'd be happy to talk!
+Feel free to contact me or browse through my GitHub. I'd be happy to talk!
 
 I am currently available for hire.
 

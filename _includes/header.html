@@ -2,7 +2,12 @@
 
   <div class="header-wrapper">
 
+    <div style="text-align:left;">
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    {% if page.category == 'Blog' %}
+      <span style="float:right"> Blog </span>
+    {% endif %}
+    </div>
 
   </div>
 
