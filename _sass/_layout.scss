@@ -22,17 +22,19 @@
 	max-width: calc(800px - (30px * 2));
 	margin-right: auto;
 	margin-left: auto;
-	padding-right: 30px;
-	padding-left: 30px;
+	padding-right: 1.5em;
+	padding-left: 1.5em;
 
   @include media-query($on-palm) {
     text-align: center;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
   }
 }
 
 .site-title {
     font-size: 26px;
-    line-height: 56px;
+    line-height: 58px;
     letter-spacing: -1px;
     margin: auto;
 
@@ -43,10 +45,10 @@
 }
 
 .header-blog {
-    font-size: 26px;
-    line-height: 56px;
     letter-spacing: -1px;
-    margin: auto;
+    padding-left: 1.5em;
+    border-left: 2px solid #424242;
+    margin-top: 2px;
 }
 
 .blog-homepage:link, .blog-homepage:visited {
