@@ -4,9 +4,13 @@
 
     <div style="text-align:left;">
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-    {% if page.category == 'Blog' %}
-      <span style="float:right"> Blog </span>
+    <span class="header-blog" style="float:right">
+    {% if page.category == 'blog' %}
+      <a class="blog-blogpage" href="/blog">blog</a> </span>
+    {% else %}
+      <a class="blog-homepage" href="/blog">blog</a> </span>
     {% endif %}
+    </span>
     </div>
 
   </div>
