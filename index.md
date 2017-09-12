@@ -14,13 +14,13 @@ I am currently available for hire.
 
 ------------------------------------------
 
-# Links
+### Links
 
 GitHub: <https://github.com/teolandon>
 
 keybase.io: <https://keybase.io/teolandon>
 
-# Contact information
+### Contact information
 
 E-mail: <kalfas@teolandon.com>
 
@@ -28,7 +28,7 @@ PGP Key: [EF48 D63A D533 4EAE][6]
 
 Please encrypt your email if you can, it's for the better.
 
-# Projects
+### Projects
 
 - [Cauldron][1], an IDE for Chemical Reaction Networks, currently not available,
     but I'll keep you guys updated.
@@ -41,7 +41,7 @@ Please encrypt your email if you can, it's for the better.
 - [trees][7], a simple binary search tree library for Go, with legible printing
     of the trees. Other data structure/algorithm libraries to come.
 
-# Publications
+### Publications
 
 Coming soon...
 
