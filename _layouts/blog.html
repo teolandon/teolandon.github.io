@@ -1,11 +1,24 @@
----
-layout: default
-category: blog
----
-<div class="post">
+<!DOCTYPE html>
+<html>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+  {% include head.html %}
 
-</div>
+  <body>
+
+    {% include blog-header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+          <article class="post-content">
+            {{ content }}
+          </article>
+
+        </div>
+      </div>
+    </div>
+
+  </body>
+
+</html>

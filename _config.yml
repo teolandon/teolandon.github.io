@@ -3,3 +3,4 @@ description: Hey, I'm Theo Kalfas (teolandon), software developer. This is my we
 email: kalfas@teolandon.com
 github_username: teolandon
 markdown: kramdown
+permalink: /blog/:title/

@@ -4,6 +4,11 @@ title: teolandon's blog
 category: blog
 ---
 
-# Welcome to my blog!
-
-Sorry it's still not setup, it's coming soon, thanks to Jekyll!
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
