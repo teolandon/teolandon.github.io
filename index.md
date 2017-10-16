@@ -41,6 +41,8 @@ Please encrypt your email if you can, it's for the better.
 - [trees][7], a simple binary search tree library for Go, with legible printing
     of the trees. Other data structure/algorithm libraries to come.
 
+- [hanoi][8], a terminal GUI library for Go.
+
 ### Publications
 
 Coming soon...
@@ -52,3 +54,4 @@ Coming soon...
 [5]: https://github.com/antirez/kilo
 [6]: /public-key.txt
 [7]: https://github.com/teolandon/trees
+[8]: https://github.com/teolandon/hanoi
