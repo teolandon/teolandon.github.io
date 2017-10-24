@@ -4,11 +4,14 @@ title: teolandon's blog
 category: blog
 ---
 
-<ul>
+Coming soon!
+
+<div>
   {% for post in site.posts %}
-    <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
+      <div style="text-align: justify;">
+        {{ post.excerpt }}...
+      </div>
+      <hr/>
   {% endfor %}
-</ul>
+</div>

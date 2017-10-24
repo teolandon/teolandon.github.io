@@ -45,7 +45,7 @@ Please encrypt your email if you can, it's for the better.
 
 ### Publications
 
-Coming soon...
+1. Jong Hoon Bae, Theodoros Kalfas, Otabek N. Nazarov, Nicholas A. Roberson, Titus H. Klinge, and James I. Lathrop, Cauldron: An IDE for Modular Development of Chemical Reaction Networks, _Proceedings of the Ninth International Conference on Bioinformatics Models, Methods and Algorithms_ (BIOSTEC 2018, Funchal, Maderia-Portugal, 19-21 January, 2018), to appear.
 
 [1]: https://github.com/grinnell-cs/cauldron
 [2]: https://github.com/teolandon/tmux-hackernews

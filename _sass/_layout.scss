@@ -272,13 +272,25 @@
 }
 
 .post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
+  position: relative;
+  font-size: 36px;
+}
 
-    @include media-query($on-laptop) {
-        font-size: 36px;
-    }
+.post-title span {
+  color: black;
+  background-color: #444;
+  padding-right: 8px;
+}
+
+.post-title:after {
+  content:"";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 0.5em;
+  border-top: 12px double black;
+  z-index: -1;
 }
 
 .post-content {
