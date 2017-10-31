@@ -1,0 +1,37 @@
+.blog-div {
+  width:95%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.blog-list {
+  display:table-row;
+}
+
+.blog-title {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.blog-entry p {
+}
+
+.post-excerpt {
+  margin-left:1em;
+}
+
+.blog-entry {
+  overflow: auto;
+  display: inline-block;
+}
+
+.blog-entry a {
+  text-decoration:none;
+  display:block;
+  padding: 10px;
+}
+
+.blog-entry:hover {
+  background: rgba(56, 49, 49, 0.9);
+  cursor: pointer;
+}

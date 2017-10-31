@@ -4,14 +4,23 @@ title: teolandon's blog
 category: blog
 ---
 
-Coming soon!
+Mostly ramblings, things that I notice, things that annoy me and
+not-so-well-thought-out conspiracy theories about obsolete programs from the
+early 2000s.
 
-<div>
-  {% for post in site.posts %}
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <div style="text-align: justify;">
-        {{ post.excerpt }}...
-      </div>
-      <hr/>
-  {% endfor %}
+<hr>
+
+<div class="blog-div">
+  <ul class="blog-list">
+    {% for post in site.posts %}
+      <li class="blog-entry"><a href="{{ post.url }}"
+      style="display:block;color:inherit;">
+        <div class="blog-title">{{ post.title }}</div>
+        <div class="post-excerpt">
+          {{post.excerpt}}
+        </div>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
