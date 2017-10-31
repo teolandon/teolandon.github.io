@@ -17,7 +17,9 @@ early 2000s.
       style="display:block;color:inherit;">
         <div class="blog-title">{{ post.title }}</div>
         <div class="post-excerpt">
-          {{post.excerpt}}
+        <p>
+          {{ post.excerpt | strip_html }}...
+          </p>
         </div>
         </a>
       </li>
