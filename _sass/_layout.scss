@@ -277,9 +277,10 @@
 }
 
 .post-title span {
-  color: black;
+  color: #9c9c9c;
   background-color: #444;
   padding-right: 8px;
+  text-align:justify;
 }
 
 .post-title:after {
@@ -289,11 +290,12 @@
   left: 0;
   right: 0;
   height: 0.5em;
-  border-top: 12px double black;
+  border-top: 12px double #9c9c9c;
   z-index: -1;
 }
 
 .post-content {
+    margin: 1em;
     margin-bottom: $spacing-unit;
 
     h2 {
