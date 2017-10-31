@@ -274,13 +274,15 @@
 .post-title {
   position: relative;
   font-size: 36px;
+  text-align: justify;
 }
 
 .post-title span {
-  color: #9c9c9c;
+  color: #867a70;
   background-color: #444;
   padding-right: 8px;
-  text-align:justify;
+  border-right: 4px solid #9c9c9c;
+  border-bottom: 4px solid #9c9c9c;
 }
 
 .post-title:after {
@@ -289,7 +291,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-  height: 0.5em;
+  height: 0.4em;
   border-top: 12px double #9c9c9c;
   z-index: -1;
 }
