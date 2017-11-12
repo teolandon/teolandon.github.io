@@ -10,7 +10,7 @@ enjoy getting involved in various projects and helping out with development.
 
 Feel free to contact me or browse through my GitHub. I'd be happy to talk!
 
-I am currently available for hire.
+I am currently available for hire. [Here](/kalfas-resume.pdf)'s my current resume.
 
 ------------------------------------------
 
@@ -30,11 +30,11 @@ Please encrypt your email if you can.
 
 ### Projects
 
-- [Cauldron][1], an IDE for Chemical Reaction Networks, currently not available,
-    but I'll keep you guys updated.
+- [Cauldron][1], an IDE for Chemical Reaction Networks, currently not open
+    source, but I'll keep you guys updated.
 
-- [tmux-hackernews][2], a tmux plugin to get [Hacker News][3] headlines in the status
-    bar.
+- [tmux-hackernews][2], a tmux plugin to get [Hacker News][3] headlines in the
+ status bar.
 
 - [ceramic][4], a simple text editor based on antirez's [kilo][5].
 
