@@ -10,7 +10,8 @@ enjoy getting involved in various projects and helping out with development.
 
 Feel free to contact me or browse through my GitHub. I'd be happy to talk!
 
-I am currently available for hire. [Here](/kalfas-resume.pdf)'s my current resume.
+I begin work at [Source Allies](https://www.sourceallies.com/) in June 2018.
+[Here](/kalfas-resume.pdf)'s my current resume.
 
 ------------------------------------------
 
