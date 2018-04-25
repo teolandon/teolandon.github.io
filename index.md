@@ -23,7 +23,7 @@ keybase.io: <https://keybase.io/teolandon>
 
 ### Contact information
 
-E-mail: <kalfas@teolandon.com>
+E-mail: kalfas [at] teolandon.com
 
 PGP Key: [EF48 D63A D533 4EAE][6]
 
