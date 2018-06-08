@@ -19,9 +19,6 @@ test:
 pages:
   stage: deploy
   script:
-  - bundle exec jekyll build -d public
-  artifacts:
-    paths:
-    - public
+  - bundle exec jekyll build
   only:
   - master
