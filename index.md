@@ -6,12 +6,12 @@ category: homepage
 
 I'm Theo Kalfas (aka teolandon), and I'm an aspiring software developer,
 currently studying in Grinnell College, IA, for my Bachelor's Degree in CS. I
-enjoy getting involved in various projects and helping out with development.
+enjoy getting involved in various software projects and helping out with development.
 
-Feel free to contact me or browse through my GitHub. I'd be happy to talk!
+Feel free to contact me or browse through my GitHub. I'm happy to talk!
 
 I begin work at [Source Allies](https://www.sourceallies.com/) in June 2018.
-[Here](/kalfas-resume.pdf)'s my current resume.
+[Here](/kalfas-resume.pdf)'s my (outdated) resume.
 
 ------------------------------------------
 
@@ -43,10 +43,6 @@ Please encrypt your email if you can.
     of the trees. Other data structure/algorithm libraries to come.
 
 - [hanoi][8], a terminal GUI library for Go.
-
-### Publications
-
-Coming soon...
 
 [1]: https://github.com/grinnell-cs/cauldron
 [2]: https://github.com/teolandon/tmux-hackernews
