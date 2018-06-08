@@ -20,5 +20,9 @@ pages:
   stage: deploy
   script:
   - bundle exec jekyll build
+  artifacts:
+    paths:
+    - public
+    - .well-known
   only:
   - master
