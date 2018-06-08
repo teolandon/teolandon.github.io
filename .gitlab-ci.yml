@@ -10,7 +10,6 @@ test:
   stage: test
   script:
   - bundle exec jekyll build -d test
-  - cp ./.well-known/acme-challenge/HbUDS8TbgvYwY3BrL87vrJbauqMtRSDYO2l01I6i7xU.html ./.well-known/acme-challenge/HbUDS8TbgvYwY3BrL87vrJbauqMtRSDYO2l01I6i7xU
   artifacts:
     paths:
     - test
