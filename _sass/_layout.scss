@@ -38,6 +38,7 @@
     letter-spacing: -1px;
     margin: auto;
     position: relative;
+    top: -2px;
 
     &,
     &:visited {
@@ -79,7 +80,7 @@
   text-shadow: 2px 2px 2px #2a2a2a;
   font-weight: bold;
   position: relative;
-  top: 1px;
+  top: -2px
 }
 
 .blog-blogpage:hover {
@@ -270,36 +271,66 @@
 }
 
 .post-title {
-  position: relative;
-  font-size: 36px;
-  text-align: left;
+  font-size: 64px;
+  text-align: center;
+  line-height: 1;
+  text-shadow: -2px 2px 1px #2a2a2a;
+  font-family: Palatino, URW Palladio L, serif;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  margin-left: -0.3em;
+  margin-right: -0.3em;
+
+  padding-bottom: 0.7em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-top: 0.5em;
+
+  border-bottom: 20px ridge #c7c7c7;
+  border-top: 20px ridge #c7c7c7;
+  box-shadow: 0px 2px 9px black;
+  background-color: #404040;
 }
 
-.post-title span {
-  color: #bfb7c7;
-  background-color: #444;
-  padding-right: 8px;
-  border-right: 8px groove #c7c7c7;
-  border-bottom: 8px groove #c7c7c7;
-}
+// .post-title span {
+//   color: #bfb7c7;
+//   background-color: #444;
+//   padding-right: 8px;
+//   border-right: 8px groove #c7c7c7;
+//   border-bottom: 8px groove #c7c7c7;
+// }
 
-.post-title:after {
-  content:"";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 0.3em;
-  border-top: 12px double #9c9c9c;
-  z-index: -1;
-}
+// .post-title:after {
+//   content:"";
+//   position: absolute;
+//   bottom: 0;
+//   left: 0;
+//   right: 0;
+//   height: 0.3em;
+//   border-top: 12px double #9c9c9c;
+//   z-index: -1;
+// }
 
 .post-content {
-    margin: 1em;
+    // margin: 1em;
     margin-bottom: $spacing-unit;
+
+    p {
+      margin-left: 1.5em;
+      margin-right: 1.5em;
+      margin-bottom: 1.5em;
+    }
 
     h2 {
         font-size: 32px;
+        font-family: Times, Times New Roman, serif;
+        text-shadow: -2px 2px 1px #2a2a2a;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        padding-bottom: 0.3em;
+        line-height: 1;
+        border-bottom: 1px solid #0d0c0c00;
+        box-shadow: 0px 5px 3px -4px black;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -308,6 +339,10 @@
 
     h3 {
         font-size: 26px;
+        font-family: Times, Times New Roman, serif;
+        text-shadow: -2px 2px 1px #2a2a2a;
+        margin: 0.5em;
+        line-height: 0.5;
 
         @include media-query($on-laptop) {
             font-size: 22px;
@@ -316,6 +351,10 @@
 
     h4 {
         font-size: 20px;
+        font-family: Times, Times New Roman, serif;
+        text-shadow: -2px 2px 1px #2a2a2a;
+        margin: 0.5em;
+        line-height: 0.5;
 
         @include media-query($on-laptop) {
             font-size: 18px;
