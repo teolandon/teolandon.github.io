@@ -60,6 +60,7 @@
   text-shadow: 1px 1px 1px #444444;
   font-weight: bold;
   position: relative;
+  top: -2px
 }
 
 .blog-homepage:hover {
@@ -69,8 +70,10 @@
 .blog-homepage:active {
   text-shadow: 1px 1px 1px #dddddd;
   position: relative;
-  top: 1px;
-  left: 1px;
+  @include media-query($on-laptop) {
+    top: 1px;
+    left: 1px;
+  }
 }
 
 .blog-blogpage:link, .blog-blogpage:visited {
