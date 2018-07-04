@@ -13,6 +13,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
+    overflow-x:hidden;
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
@@ -152,7 +153,7 @@ code {
 
 pre {
     padding: 8px 12px;
-    overflow-x: scroll;
+    // overflow-x: scroll;
 
     > code {
         border: 0;
