@@ -23,6 +23,10 @@
 .blog-entry {
   overflow: auto;
   display: inline-block;
+  border-bottom: 8px ridge #c7c7c7;
+  border-top: 8px ridge #c7c7c7;
+  box-shadow: 0 12px 5px -8px black;
+  margin: 10px 0;
 }
 
 .blog-entry a {
@@ -31,7 +35,6 @@
   padding: 10px;
 }
 
-.blog-entry:hover {
-  background: rgba(56, 49, 49, 0.9);
-  cursor: pointer;
+.blog-entry a:hover {
+  text-decoration:underline;
 }

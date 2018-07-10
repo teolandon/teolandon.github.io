@@ -13,15 +13,15 @@ early 2000s.
 <div class="blog-div">
   <ul class="blog-list">
     {% for post in site.posts %}
-      <li class="blog-entry"><a href="{{ post.url }}"
-      style="display:block;color:inherit;">
-        <div class="blog-title">{{ post.title }}</div>
+      <li class="blog-entry">
+        <a href="{{ post.url }}">
+          <div class="blog-title">{{ post.title }}</div>
+        </a>
         <div class="post-excerpt">
-        <p>
-          {{ post.excerpt | strip_html }}...
+          <p>
+            {{ post.excerpt | strip_html }}...
           </p>
         </div>
-        </a>
       </li>
     {% endfor %}
   </ul>
